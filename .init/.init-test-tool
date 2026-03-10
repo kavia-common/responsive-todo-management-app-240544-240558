@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/responsive-todo-management-app-240544-240558/todo_frontend"
+}
